@@ -10,14 +10,14 @@ http://dishvyas.pythonanywhere.com/
 
 
 # Setup and Installation
-##  Setup Virtual environment Pyhton3
+##  Setup Virtual environment for Django app
 
 
-- clone Repositry
+- Clone Repositry
     <pre><code> git clone https://github.com/dishvyas/User-PeriodActivity-Model-using-Django.git</pre></code>
 
 
-- install virtualenv if not installed
+- Install virtualenv if not installed
     <pre><code> pip install virtualenv </pre></code> 
 
 - Create virtual environment for Python 3 and activate

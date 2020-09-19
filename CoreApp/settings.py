@@ -25,7 +25,7 @@ SECRET_KEY = 'o)vf=(mu!&hk7p*6yrf=d61_da=4l)n7yn*+vd8f416(gpy7k$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dishvyas.pythonanywhere.com']
 
 
 # Application definition
